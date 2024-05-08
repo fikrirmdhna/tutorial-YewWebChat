@@ -28,3 +28,21 @@ This repository is divided to branches that correspond to the blog post sections
 ### Reflection
 1. Screen Capture  
 ![](images/image.png)
+
+2. Be Creative!  
+![](images/image-2.png)  
+Changes:
+   * Warna dan Gaya:  
+   Mengubah skema warna dengan penggunaan kelas CSS seperti bg-teal-100 dan text-teal-600 agar terlihat bagus.
+   * Struktur dan Layout:  
+   Membuat pembagian ruang lebih terstruktur antara daftar pengguna dan area chat untuk organisasi yang lebih jelas.
+   * Handling Pesan (Pesan & GIF):  
+   Menambahkan gif handler yang lebih baik dengan menambahkan shadow-sm untuk tampilan yang lebih rapih.
+   * Avatar URL:  
+   Mengganti sumber avatar menjadi link statis dari svgrepo.com.
+   * HTML dan JSX:  
+   Menyempurnakan penggunaan kelas CSS untuk memberikan efek visual seperti shadow-md dan transition-shadow.
+   * Input dan Tombol:  
+   Menggunakan gaya focus:ring dan transition-colors untuk transisi visual.
+   * Event Handler:  
+   Menambahkan efek visual pada tombol dengan hover dan click untuk menunjukkan feedback saat interaksi pengguna.
